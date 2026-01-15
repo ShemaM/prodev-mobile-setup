@@ -1,0 +1,21 @@
+{
+  "name": "prodev-mobile-app-0x02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eslint.config.js",
+  "scripts": {
+    "start": "expo start",
+    "dev": "expo start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "expo": "^54.0.31",
+    "expo-router": "~6.0.21",
+    "react": "^19.2.3",
+    "react-native": "^0.83.1"
+  }
+}
